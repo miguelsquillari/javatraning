@@ -1,6 +1,6 @@
 package training.generics.repository;
 
-import training.model.Persona;
+import training.shared.model.Persona;
 
 import java.util.List;
 

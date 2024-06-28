@@ -1,6 +1,6 @@
 package training.optionals;
 
-import training.model.Persona;
+import training.shared.model.Persona;
 
 import java.util.Optional;
 

@@ -1,4 +1,4 @@
-package training.model;
+package training.shared.model;
 
 import java.util.Random;
 

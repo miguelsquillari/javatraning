@@ -1,4 +1,4 @@
-package training.model;
+package training.shared.model;
 
 public class Persona {
 
